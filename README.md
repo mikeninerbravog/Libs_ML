@@ -1,6 +1,3 @@
-Aqui está um **README.md** geral para um repositório contendo exemplos de bibliotecas de Machine Learning, como **TensorFlow, PyTorch, Pandas e Scikit-Learn**.  
-
-```markdown
 # Exemplos de Bibliotecas para Machine Learning  
 
 Este repositório contém exemplos práticos de algumas das principais bibliotecas utilizadas em **Machine Learning** e **Análise de Dados**, incluindo **TensorFlow, PyTorch, Pandas e Scikit-Learn**.  
